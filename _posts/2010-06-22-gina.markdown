@@ -7,6 +7,7 @@ categories: UC
 course: " Berkeley"
 author: "Leo Keselman"
 subtitle: "A low power, wireless sensor"
+website: /_layouts/default.html
 ---
 I helped Anita Flynn and Thomas Watteyne build these small sensors and wrote firmware. 
 
